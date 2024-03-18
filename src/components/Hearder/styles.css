@@ -1,0 +1,11 @@
+h1 {
+  color: #eee;
+  font-size: 2em;
+  margin: 40px;
+
+  text-align: center;
+}
+
+h1:hover {
+  cursor: pointer;
+}
